@@ -1,3 +1,9 @@
 # nextStrapi
 
-> Going through the Nextjs app router and strapi docs while also learning Typescript and Tailwind CS
+### Reverse engineering the Strapi/NextJS 13 starter project
+
+### Learning:
+- Nextjs
+- Strapi CMS
+- Tailwind CSS
+- Typescript
