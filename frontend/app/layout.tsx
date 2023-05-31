@@ -1,6 +1,5 @@
 import './globals.css'
 import { Inter } from 'next/font/google'
-import Nav from './components/nav'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -17,7 +16,6 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className} suppressHydrationWarning={true}>
-        <Nav />
         {children}
       </body>
     </html>

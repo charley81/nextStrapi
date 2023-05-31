@@ -4,7 +4,7 @@ export const metadata: Metadata = {
   title: 'Nextjs & Strapi'
 }
 
-export default function Home() {
+export default async function Home() {
   return (
     <main className="">
       <h1>nextStrapi</h1>
